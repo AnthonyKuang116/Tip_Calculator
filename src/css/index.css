@@ -1,0 +1,22 @@
+@import "TipCalculator.css";
+
+* {
+    margin: 0;
+    padding: 0;
+    border: border-box;
+}
+
+.App{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(
+    0deg,
+    rgba(46, 93, 148, 1) 24%,
+    rgba(22, 122, 157, 1) 41%,
+    rgba(3, 175, 213, 1) 54%,
+    rgba(0, 212, 255, 1) 68%
+  );
+}
